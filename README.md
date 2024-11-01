@@ -1,7 +1,5 @@
 ## Hello there! I am Rifat.
 
-You are visitor ![Visitor Count](https://profile-counter.glitch.me/skywalker478/count.svg)
-
 I am a student at Chittagong University of Engineering and Technology, Bangladesh. I am passionate about electronics and computers. My journey involves delving into the world of computer science and technology, exploring new ideas, and sharing my insights with the community.
 
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=skywalker478&show_icons=true&theme=dracula)
@@ -26,6 +24,10 @@ I am a student at Chittagong University of Engineering and Technology, Banglades
 ## 📬 Get in Touch
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/skywalker478)
+
+## 👀 Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/skywalker478/count.svg)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 <!--
