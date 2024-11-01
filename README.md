@@ -2,9 +2,9 @@
 
 I am a student at Chittagong University of Engineering and Technology, Bangladesh. I am passionate about electronics and computers. My journey involves delving into the world of computer science and technology, exploring new ideas, and sharing my insights with the community.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=skywalker478&show_icons=true&theme=dracula)
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=skywalker478&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skywalker478&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skywalker478&layout=donut&theme=transparent)
 
 ## 🚀 About Me
 
@@ -29,6 +29,7 @@ I am a student at Chittagong University of Engineering and Technology, Banglades
 
 ![Visitor Count](https://profile-counter.glitch.me/skywalker478/count.svg)
 
+##
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 <!--
 **skywalker478/skywalker478** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
