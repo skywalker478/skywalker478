@@ -5,13 +5,15 @@ I am a student at Chittagong University of Engineering and Technology, Banglades
 
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=skywalker478&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skywalker478&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Bachelor of Science degree in Engineering at the department of Electrical and Electronic Department, Chittagong University of Engineering and Technology.
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,matlab,arduino,latex,linux,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,matlab,arduino,latex,linux,)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
