@@ -11,7 +11,7 @@ I am a student at Chittagong University of Engineering and Technology, Banglades
 - 🔭 I'm currently pursuing my Bachelor of Science degree in Engineering at the department of Electrical and Electronic Department, Chittagong University of Engineering and Technology.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,matlab,arduino,latex,linux,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,matlab,arduino,docker,arch,linux,latex,)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
