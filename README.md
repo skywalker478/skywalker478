@@ -1,17 +1,17 @@
-## Hello there! I am Rifat.
+## Hello there!
 
 I am a student at Chittagong University of Engineering and Technology, Bangladesh. I am passionate about electronics and computers. My journey involves delving into the world of computer science and technology, exploring new ideas, and sharing my insights with the community.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=skywalker478&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skywalker478&layout=donut&theme=transparent)
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=skywalker478&show_icons=true&theme=transparent)  
 
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Bachelor of Science degree in Engineering at the department of Electrical and Electronic Department, Chittagong University of Engineering and Technology.
 
-## Tech Stack
+## Skill Stack
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,matlab,arduino,docker,arch,linux,latex,)](https://skillicons.dev)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skywalker478&layout=donut&theme=transparent)
 
 ## 🌱 Currently Exploring
 
