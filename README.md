@@ -9,7 +9,7 @@ I am a student at Chittagong University of Engineering and Technology, Banglades
 - 🔭 I'm currently pursuing my Bachelor of Science degree in Engineering at the department of Electrical and Electronic Department, Chittagong University of Engineering and Technology.
 
 ## Skill Stack
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,matlab,arduino,docker,arch,linux,latex,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,r,matlab,arduino,docker,arch,linux,latex,)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skywalker478&layout=donut&theme=transparent)
 
