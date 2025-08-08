@@ -11,7 +11,7 @@ I am a recent graduate from the Department of Electrical and Electronic Engineer
 ## ⚙️ Skill Stack
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,r,matlab,arduino,docker,arch,linux,latex,)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skywalker478&layout=donut&theme=transparent)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skywalker478&layout=donut&theme=transparent) -->
 
 ## 🌱 Currently Exploring
 
