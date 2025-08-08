@@ -1,4 +1,4 @@
-## Hello there!
+## Hello, there!
 
 I am a recent graduate from the Department of Electrical and Electronic Engineering, Chittagong University of Engineering and Technology, Bangladesh. I am passionate about electronics and computers. My journey involves delving into the world of computer science and technology, exploring new ideas, and sharing my insights with the community.
 
@@ -15,7 +15,7 @@ I am a recent graduate from the Department of Electrical and Electronic Engineer
 
 ## 🌱 Currently Exploring
 
-- 🚀 ISC² Certified in Cybersecurity (CC) – in progress
+- 🚀 ISC² Certified in Cybersecurity (CC)
   - Building core understanding of entry-level cybersecurity domains
   - Supplementing with labs, note-taking, and practice assessments
 
