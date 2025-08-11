@@ -23,6 +23,10 @@ I am a recent graduate from the Department of Electrical and Electronic Engineer
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/skywalker478)
 
+## 👀 Visitor Count
+
+<img src="https://profile-counter.deno.dev/skywalker478/count.svg" alt="Key:: Visitor Count" />
+
 ##
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 <!--
