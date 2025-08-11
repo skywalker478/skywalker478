@@ -11,7 +11,7 @@ I am a recent graduate from the Department of Electrical and Electronic Engineer
 ## ⚙️ Skill Stack
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,r,matlab,arduino,docker,arch,linux,latex,)](https://skillicons.dev)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skywalker478&layout=donut&theme=transparent) -->
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skywalker478&layout=donut&theme=transparent)
 
 ## 🌱 Currently Exploring
 
@@ -26,6 +26,7 @@ I am a recent graduate from the Department of Electrical and Electronic Engineer
 ##
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 <!--
+![Profile View](https://komarev.com/ghpvc/?username=skywalker478&color=blue&style=pixel)
 **skywalker478/skywalker478** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
